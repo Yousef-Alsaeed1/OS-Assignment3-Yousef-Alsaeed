@@ -39,7 +39,7 @@ class SharedResources {
     
     // TODO #1: Add a ReentrantLock(s) here to protect critical sections
     // Example: public static final ReentrantLock lock = new ReentrantLock();
-    public static final ReentrantLock counterLock = new ReentrantLock(); // aaaaaa
+    public static final ReentrantLock counterLock = new ReentrantLock(); //
 
 
 
